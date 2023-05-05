@@ -13,17 +13,12 @@ int n = 0;
 Console.WriteLine("Введите количество проверяемых строк");
 int.TryParse(Console.ReadLine(), out n);
 string[] array = new string[n];
-List<string> newArray = new List<string>();
 if (n > 0)
 {
     FillArray(array);
     PrintArray(array);
-    NewMass(array, newArray);
+    PrintArray(NewMass(array));
 
-    Console.Write("[ ");
-    foreach (var i in newArray)
-        Console.Write($"{i} ");
-    Console.Write("]");
 }
 else
     Console.WriteLine("Некорректно введено");
@@ -37,18 +32,28 @@ void FillArray(string[] a)
         a[i] = Console.ReadLine();
     }
 }
-void NewMass(string[] a1, List<string> a2)
+string[] NewMass(string[] a1)
 {
+    int j = 0;
     int m;
     Console.WriteLine("С Каким максимальным количеством символов вывести строки?");
     int.TryParse(Console.ReadLine(), out m);
     for (int i = 0; i < a1.Length; i++)
-    {
-        if (a1[i].Length <= m)
+        if (a1[i].Length <= m && a1[i].Length > 0)
         {
-            a2.Add(a1[i]);
+            j++;
         }
-    }
+    string[] a2 = new string[j];
+    int temp = 0;
+    for (int i = 0; i < a1.Length; i++)
+
+        if (a1[i].Length <= m && a1[i].Length > 0)
+        {
+            a2[temp] = a1[i];
+            temp++;
+        }
+
+    return a2;
 
 }
 void PrintArray(string[] a)
