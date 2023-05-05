@@ -1,0 +1,15 @@
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\obj\Debug\net7.0\4 - Итоговая.csproj.AssemblyReference.cache
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\obj\Debug\net7.0\4 - Итоговая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\obj\Debug\net7.0\4 - Итоговая.AssemblyInfoInputs.cache
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\obj\Debug\net7.0\4 - Итоговая.AssemblyInfo.cs
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\obj\Debug\net7.0\4 - Итоговая.csproj.CoreCompileInputs.cache
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\bin\Debug\net7.0\4 - Итоговая.exe
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\bin\Debug\net7.0\4 - Итоговая.deps.json
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\bin\Debug\net7.0\4 - Итоговая.runtimeconfig.json
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\bin\Debug\net7.0\4 - Итоговая.dll
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\bin\Debug\net7.0\4 - Итоговая.pdb
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\obj\Debug\net7.0\4 - Итоговая.dll
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\obj\Debug\net7.0\refint\4 - Итоговая.dll
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\obj\Debug\net7.0\4 - Итоговая.pdb
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\obj\Debug\net7.0\4 - Итоговая.genruntimeconfig.cache
+C:\Users\spite\Downloads\Практика Разработчик\4 - Итоговая\obj\Debug\net7.0\ref\4 - Итоговая.dll
