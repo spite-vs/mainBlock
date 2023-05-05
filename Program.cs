@@ -58,9 +58,9 @@ string[] NewMass(string[] a1)
 }
 void PrintArray(string[] a)
 {
-    Console.Write("[ ");
-    for (int i = 0; i < a.Length; i++)
-        Console.Write($"{a[i]} ");
-    Console.Write("]");
+    Console.Write("[");
+    for (int i = 0; i < a.Length - 1; i++)
+        Console.Write($"“{a[i]}“, ");
+    Console.Write($"“{a[a.Length - 1]}“]");
     Console.WriteLine();
 }
